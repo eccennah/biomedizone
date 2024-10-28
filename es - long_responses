@@ -1,6 +1,6 @@
 import random
 
-R_EATING = "
+R_EATING = "I don't like eating because I'm obviously a bot!"
 
 def unknown():
     response = ['Could you please re-phrase that?',
